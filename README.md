@@ -13,7 +13,7 @@
 
 # Notes
 - Never tested USB C except for charging, works great
-- no issues with sleep, wakeup.
+- Sleep works fine, lid wakeup is excellent as long as it's left for a couple seconds and not opened and closed exceptionally quickly
 - power management is defaulted as I found with @maz-1 it had issues when on battery switching from AC
 - USB devices eject on sleep (not really an issue)
 - Haven't implemented a Bluetooth solution into this yet, as I don't really use it -- will be added ASAP (I believe
