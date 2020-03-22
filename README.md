@@ -1,13 +1,14 @@
-# XPS13-9350-Catalina
-Files for Catalina Installation
 
 # Description
-Hello all, full credit where credit is due, this guide is heavily credited to the other creators and uses many of their files. This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies. Granted, many files are similar or the same but there is significantly less of them and/or they are predeployed into spots where they will work just as well, even if not as efficient on bootup. Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
+- Hello all, full credit where credit is due, this guide is heavily credited to the other creators and uses many of their files. 
+- This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
+- Granted, many files are similar or the same but there is significantly less of them and/or they are predeployed into spots where they will work just as well, even if not as efficient on bootup.
+- Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
 
 ****This guide does work excellently however and will provide you with a near perfect setup for Catalina for your XPS 9350, and is currently my daily driver as I struggled using the referenced users files as well.
 
 # Styling
-This guide is designed to be literally as thorough as possible to appeal to those who really don't understand many of the things in @maz-1's guide or some of the other users as they assume you would already understand this information. It does not cover complex topics like undervolting etc etc
+- This guide is designed to be literally as thorough as possible to appeal to those who really don't understand many of the things in @maz-1's guide or some of the other users as they assume you would already understand this information. It does not cover complex topics like undervolting etc etc
 
 # Notes
 - Never tested USB C except for charging, works great
@@ -36,9 +37,9 @@ This guide is designed to be literally as thorough as possible to appeal to thos
  - Do not be alarmed if the installer takes a long time to boot into, this is expected
  - Once you have done this step, use F12 to select the USB and boot into the installer from the SSD in the options menu. (you cannot boot natively yet as the EFI isn't copied into the SSD yet.
  - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
- - Now we will add this as. 
+ - Now we will add this as a native boot option.
  - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
- - Now will we add this as a boot entry so you can always boot from this natively without the USB
+ - Now will we add this as a boot entry so you can always boot from this natively without the USB.
  
  # Boot Entry Setup
  - Boot into the BIOS of the computer, then navigate to the Boot setup (or entries (not sure what it is called exactly, but it will be a list of the options your computer selects to boot)
