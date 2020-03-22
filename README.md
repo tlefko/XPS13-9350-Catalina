@@ -1,7 +1,7 @@
 
 # Description
-- Hello all, full credit where credit is due, this guide is heavily credited to the other creators and uses many of their files. 
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
+- Many files and ideas are sourced from @maz-1, @syscl, and my previous guides
 - Granted, many files are similar or the same but there is significantly less of them and/or they are predeployed into spots where they will work just as well, even if not as efficient on bootup.
 - Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
 
