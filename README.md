@@ -51,6 +51,12 @@
  - Credit Hackintosher.com for basic patches (although @syscl) covered some
 - Credit to @Rehabman
 - Credit to @syscl Kexts, and his contributers (@maz-1)
+- XPS 13 9350 setup by syscl
+- XPS 13 9360 setup by the-darkvoid
+- Dell XPS 13 9360 Guide by bozma88
+- VoodooI2C on XPS 13 9360 by Vygr10565
+- USB-C Hotplug through ExpressCard by dpassmor
+- Original kext authors
  
  # Messages and Facetime
  - Using Clover Configuator generate your own Serials, Board Numbers, MLB
