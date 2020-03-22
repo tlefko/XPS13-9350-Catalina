@@ -47,6 +47,11 @@
  - Click add new, and make sure the USB isn't plugged in.
  - Select the only option that is avaiable, and in FS0 navigate to Boot/BOOTx64. Add this as an entry, then select this as whatever priority you would like.
  
+ # Credits
+ - Credit Hackintosher.com for basic patches (although @syscl) covered some
+- Credit to @Rehabman
+- Credit to @syscl Kexts, and his contributers (@maz-1)
+ 
  # Messages and Facetime
  - Using Clover Configuator generate your own Serials, Board Numbers, MLB
  - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
