@@ -1,5 +1,6 @@
 
-# Description
+# Description (PLEASE SUBMIT FEEDBACK)
+
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - This does include a copy of Clover, which of course I take no credit for. I am only responsible for minor changes in files and plists, as well as placement and instructions throughout the guide (as well as the work used from previous projects).
 - Many files and ideas are sourced from @maz-1, @syscl, and my previous guides
