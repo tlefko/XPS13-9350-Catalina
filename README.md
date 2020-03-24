@@ -29,7 +29,7 @@
 # Recommended: Clean Install (Preinstall steps)
 - Format a USB (16GB) as Journaled and then proceed to download the latest Catalina Installer Patcher Application
 - Download the latest Catalina installer from within the Patcher App, and select to download a new copy and install to your USB device
-- Download the clover configurator application and mount the EFI of the USB partition, then copy the contents of the Files linked above to the EFI Folder within the EFI partition.
+- Download the clover configurator application and mount the EFI of the USB partition, then copy the contents of the Files linked above to A new EFI Folder (that you create) within the EFI partition.
 
 ** This is because the App Store installers will often not download a full installer, just an truncated version that downloads the installer files from the interent while installing. Thus, they're not bootable from a USB as they're not complete. That is why you should use this method to make sure the installer is usable for bootable media.
 
