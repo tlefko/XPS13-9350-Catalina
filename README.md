@@ -1,5 +1,8 @@
+# Latest Release Notes
+- Fixed Bluetooth and Wifi Stability Issues
+- Improved Preformance and Power Managements
 
-# Description (PLEASE SUBMIT FEEDBACK)
+# Description
 
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - This does include a copy of Clover, which of course I take no credit for. I am only responsible for minor changes in files and plists, as well as placement and instructions throughout the guide (as well as the work used from previous projects).
@@ -15,11 +18,7 @@
 
 # Notes
 - Never tested USB C except for charging, works great
-- Sleep works fine, lid wakeup is excellent as long as it's left for a couple seconds and not opened and closed exceptionally quickly
-- power management is defaulted as I found with @maz-1 it had issues when on battery switching from AC
 - USB devices eject on sleep (not really an issue)
-- Haven't implemented a Bluetooth solution into this yet, as I don't really use it -- will be added ASAP (I believe
-- KILLER WIFI will NOT work, must use one of the supported chipsets  (DW1560 is excellent)
 
 # BIOS Setup
 -  Set all SATA operation as AHCI
