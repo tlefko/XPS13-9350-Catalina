@@ -19,6 +19,7 @@
 # Notes
 - Never tested USB C except for charging, works great
 - USB devices eject on sleep (not really an issue)
+- Some experience sleep wake issue, some do not (I think it depends which model you are using 1080p seems to not have this issue)
 
 # BIOS Setup
 -  Set all SATA operation as AHCI
