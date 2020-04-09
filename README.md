@@ -1,6 +1,13 @@
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
+- Can Provide Files for Display Overrides
+- Additional Patches for 3K Display
+- Improved Sleep 
+
+# POST
+
+- run sudo pmset -a hibernatemode 0
 
 # Description
 
