@@ -6,12 +6,7 @@
 - Improved Sleep -- HUGE IMPROVEMENTS -- display wakes 2/3 times on lidwake. 
 
 # Sleep Bugs
-
-- artifacts on display after wake sometimes. (no idea why, it is only sometimes, re waking helps)
-- note no artifacts at all before sleep
 - plugging or removing usb c device after sleep will put computer back to sleep
-
-
 # POST
 
 - run sudo pmset -a hibernatemode 0
