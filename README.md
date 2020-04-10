@@ -1,3 +1,7 @@
+# Version Info
+
+This build is compatible up to Catalina 10.15.4 (before supplemental update)
+
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
