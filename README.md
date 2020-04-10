@@ -3,7 +3,7 @@
 - Improved Preformance and Power Managements
 - Can Provide Files for Display Overrides
 - Additional Patches for 3K Display
-- updated for 14.4 rev 1
+- updated for 15.4 rev 1
 - IMPROVED SLEEP DRAMATICALLY -- once lid is closed for more than 15 seconds (time to sleep), computer WILL WAKE SUCCESFULLY
 # Sleep Bugs
 - plugging or removing usb c device after sleep will put computer back to sleep
