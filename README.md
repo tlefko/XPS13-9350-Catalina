@@ -8,6 +8,7 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 - Can Provide Files for Display Overrides
 - Additional Patches for 3K Display
 - updated for 15.4 rev 1
+- if using unsupported wifi card disable it in bios
 - IMPROVED SLEEP DRAMATICALLY -- once lid is closed for more than 15 seconds (time to sleep), computer WILL WAKE SUCCESFULLY
 # Sleep Bugs
 - plugging or removing usb c device after sleep will put computer back to sleep
@@ -79,4 +80,4 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
  - This is fairly straightforward and there is lots of documentation, just don't open these apps until you've done this properly.
  
  # Finished!
- - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
+ - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. Donations lefkotyler@gmail.com
