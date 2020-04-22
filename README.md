@@ -9,9 +9,9 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 - Additional Patches for 3K Display
 - updated for 15.4 rev 1
 - if using unsupported wifi card disable it in bios
-- IMPROVED SLEEP DRAMATICALLY -- once lid is closed for more than 15 seconds (time to sleep), computer WILL WAKE SUCCESFULLY
+- Perfect Sleep/Wake for 1080P Model no-touch, still bugs for 3K
 # Sleep Bugs
-- plugging or removing usb c device after sleep will put computer back to sleep
+- plugging or removing usb c device after sleep will put computer back to sleep (3K Display Only)
 # POST
 
 - run sudo pmset -a hibernatemode 0
