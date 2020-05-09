@@ -83,4 +83,4 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
 # Donations 
-- if you feel I helped you and want to buy me a coffee lefkotyler@gmail.com
+- Send me a coffee lefkotyler@gmail.com
