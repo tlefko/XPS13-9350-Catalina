@@ -80,4 +80,7 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
  - This is fairly straightforward and there is lots of documentation, just don't open these apps until you've done this properly.
  
  # Finished!
- - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. Donations lefkotyler@gmail.com
+ - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
+
+# Donations 
+- if you feel I helped you and want to buy me a coffee lefkotyler@gmail.com
