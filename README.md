@@ -18,7 +18,7 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 
 # Description
 
-- This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
+- This esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
 - This does include a copy of Clover, which of course I do not contribute to and am only responsible for the provided files, patches, and kext placements
 
@@ -31,7 +31,8 @@ This guide provides a working setup with little knowledge of the topic and witho
 # Notes
 - Never tested USB C except for charging, works great
 - USB devices eject on sleep (not really an issue)
-- Some experience sleep wake issue, some do not (I think it depends which model you are using 1080p seems to not have this issue)
+- 4K model has minor sleep wake issues occasionally, 1080P is fully functional
+- 4K sleep has been heavily improved however and glitches are rare, fixed by reopening lid
 
 # BIOS Setup
 -  Set all SATA operation as AHCI
