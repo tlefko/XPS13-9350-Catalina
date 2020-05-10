@@ -75,6 +75,10 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
  - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
  - This is fairly straightforward and there is lots of documentation, just don't open these apps until you've done this properly.
  
+ # Headphones and Audio
+ - All audio from speakers should work perfectly along with Bluetooth and USB audio
+ - To resolve headphones static issue (wired) install combojack 
+ 
  # Finished!
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
