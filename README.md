@@ -19,6 +19,7 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 # Description
 
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
+- You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
 - This does include a copy of Clover, which of course I take no credit for. I am only responsible for minor changes in files and plists, as well as placement and instructions throughout the guide (as well as the work used from previous projects).
 
 
@@ -50,7 +51,7 @@ Esentially, this guide is designed to provide a perfectly working setup with lit
 
 # Install Steps
  - Simply use F12 to boot from the USB device, and select the USB Device and then boot from the Install mac OS partition. I have defaulted the installer to boot into verbose mode so I can easily see the errors you guys are seeing if you encounter them. If everything goes well, you can disable these from the boot arguments selection of Clover Configurator
- - Boot into the USB Device, and follow the steps to format your SSD from the installer to install Mac OS Catalina. NOTE THE TRACKPAD WILL NOT FUNCTION AT THIS POINT, BUT THE TOUCHSCREEN WILL. This is caused by the way the installer handles Kext loading but because the touchscreen is being loaded via usb and the keyboard in a different method (which I can explain in detail if you'd like, the install will be possible.
+ - Boot into the USB Device, and follow the steps to format your SSD from the installer to install Mac OS Catalina. *Note* the trackpad will not function at this point, but the touchscreen will. This is caused by the way the installer handles Kext loading but because the touchscreen is being loaded via usb and the keyboard in a different method (which I can explain in detail if you'd like, the install will be possible.
  - Do not be alarmed if the installer takes a long time to boot into, this is expected
  - Once you have done this step, use F12 to select the USB and boot into the installer from the SSD in the options menu. (you cannot boot natively yet as the EFI isn't copied into the SSD yet.
  - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
@@ -71,10 +72,9 @@ Esentially, this guide is designed to provide a perfectly working setup with lit
 - Original kext authors
  
  # Messages and Facetime
- - Using Clover Configuator generate your own Serials, Board Numbers, MLB
+ - Gnerate your own Serials, Board Numbers, MLB
  - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
- - This is fairly straightforward and there is lots of documentation, just don't open these apps until you've done this properly.
- 
+ - This is fairly straightforward and there is lots of external recourses, or you can contact me for support.
  # Headphones and Audio
  - All audio from speakers should work perfectly along with Bluetooth and USB audio
  - To resolve headphones static issue (wired) install combojack 
