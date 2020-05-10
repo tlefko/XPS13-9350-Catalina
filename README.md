@@ -20,9 +20,9 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - This does include a copy of Clover, which of course I take no credit for. I am only responsible for minor changes in files and plists, as well as placement and instructions throughout the guide (as well as the work used from previous projects).
-- Many files and ideas are sourced from @maz-1, @syscl, and my previous guides
-- Granted, many files are similar or the same but there is significantly less of them and/or they are predeployed into spots where they will work just as well, even if not as efficient on bootup.
-- Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
+
+
+Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
 - Make sure you are using DW1560 for wifi or else KP. If not using remove BRCM kexts from CLOVER>kexts>other
 
 ****This guide does work excellently however and will provide you with a near perfect setup for Catalina for your XPS 9350, and is currently my daily driver as I struggled using the referenced users files as well.
