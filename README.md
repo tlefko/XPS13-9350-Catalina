@@ -22,7 +22,7 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 - You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
 - This does include a copy of Clover, which of course I do not contribute to and am only responsible for the provided files, patches, and kext placements
 
-This guide provides a working setup with little knowledge of the topic and without optimization (because often they can break things).
+This guide provides a working setup with little knowledge of the topic and without "optimization" (because often they can break things). But, it is fully functional and preforms properly and is stable
 - Make sure you are using DW1560 for wifi or else KP. If not using remove BRCM kexts from CLOVER>kexts>other
 
 # Styling
