@@ -20,13 +20,10 @@ This build is compatible up to Catalina 10.15.4 (before supplemental update)
 
 - This  esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
-- This does include a copy of Clover, which of course I take no credit for. I am only responsible for minor changes in files and plists, as well as placement and instructions throughout the guide (as well as the work used from previous projects).
+- This does include a copy of Clover, which of course I do not contribute to and am only responsible for the provided files, patches, and kext placements
 
-
-Esentially, this guide is designed to provide a perfectly working setup with little knowledge of the topic and without optimization (because often they can break things). Most patches on the main plist use patches implemented by him as well.
+This guide provides a working setup with little knowledge of the topic and without optimization (because often they can break things).
 - Make sure you are using DW1560 for wifi or else KP. If not using remove BRCM kexts from CLOVER>kexts>other
-
-****This guide does work excellently however and will provide you with a near perfect setup for Catalina for your XPS 9350, and is currently my daily driver as I struggled using the referenced users files as well.
 
 # Styling
 - This guide is designed to be literally as thorough as possible to appeal to those who really don't understand many of the things in @maz-1's guide or some of the other users as they assume you would already understand this information. It does not cover complex topics like undervolting etc etc
@@ -65,7 +62,6 @@ Esentially, this guide is designed to provide a perfectly working setup with lit
  - Select the only option that is avaiable, and in FS0 navigate to Boot/BOOTx64. Add this as an entry, then select this as whatever priority you would like.
  
  # Credits
-- Credit to @Rehabman
 - Dell XPS 13 9360 Guide by bozma88
 - VoodooI2C on XPS 13 9360 by Vygr10565
 - USB-C Hotplug through ExpressCard by dpassmor
