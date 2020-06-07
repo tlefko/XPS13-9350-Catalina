@@ -64,10 +64,8 @@ This guide provides a working setup with little knowledge of the topic and witho
  - Select the only option that is avaiable, and in FS0 navigate to Boot/BOOTx64. Add this as an entry, then select this as whatever priority you would like.
  
  # Credits
-- Dell XPS 13 9360 Guide by bozma88
-- VoodooI2C on XPS 13 9360 by Vygr10565
-- USB-C Hotplug through ExpressCard by dpassmor
 - Original kext authors
+- Clover
  
  # Messages and Facetime
  - Gnerate your own Serials, Board Numbers, MLB
