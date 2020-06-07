@@ -27,7 +27,7 @@ This guide provides a working setup with little knowledge of the topic and witho
 - Make sure you are using DW1560 for wifi or else KP. If not using remove BRCM kexts from CLOVER>kexts>other
 
 # Styling
-- This guide is designed to be literally as thorough as possible to appeal to those who really don't understand many of the things in @maz-1's guide or some of the other users as they assume you would already understand this information. It does not cover complex topics like undervolting etc etc
+- This guide is designed to be literally as thorough as possible to appeal all types of users.  It does not cover complex topics like undervolting etc etc only to provide a completely functional system
 
 # Notes
 - Never tested USB C except for charging, works great
