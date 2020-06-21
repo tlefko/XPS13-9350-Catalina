@@ -5,6 +5,7 @@
 
 This build is compatible up to Catalina 10.15.4 (before supplemental update)
 - Now Compatible with 10.15.5
+- Please leave feedback with issues or w/o
 
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
