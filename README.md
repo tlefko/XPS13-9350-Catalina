@@ -1,12 +1,15 @@
 # Site
 - checkout our official site! https://twortech.wixsite.com/pcmac
 
+# News
+- In light of the recent WWDC, we will begin testing the functionality of our EFI on macOS 11 for this device with the latest developer preview
+
 # Version Info
 
 This build is compatible up to Catalina 10.15.4 (before supplemental update)
 - Now Compatible with 10.15.5
 - Please leave feedback with issues or w/o
-- Comitted to Updating up to 10.16
+- Comitted to Updating up to OS 11
 - MULTITOUCH TOUCHSCREEN SUPPORT
 
 # Latest Release Notes
