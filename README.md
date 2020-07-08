@@ -1,3 +1,8 @@
+# Big Sur
+- there is a strong chance there will need to be a new repository for Big Sur, due to Clover issues and unlikely to have one EFI for Catalina and Sur
+- Installer will NOT be bootable and there will have to be a workaround in place to install to a HDD before using EFI (VM likely)
+- Will try to maintain working OC and Clover
+- Likely to be released in the next week
 # Site
 - checkout our official site! https://twortech.wixsite.com/pcmac
 
