@@ -94,4 +94,5 @@ This guide provides a working setup with little knowledge of the topic and witho
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
 # Donations 
-- Send me a coffee lefkotyler@gmail.com
+- ***Send me a coffee***
+- https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
